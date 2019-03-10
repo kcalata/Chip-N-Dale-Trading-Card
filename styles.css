@@ -1,0 +1,42 @@
+.card{
+  width: 320px;
+  height: 590px;
+  background-color: brown;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.name{
+  width: 300px;
+  border: 1px;
+  margin: 9px;
+  font-size: 1.5em;
+  padding-top: 10px;
+}
+
+.picture{
+  margin: 9px;
+  border: 1px solid black;
+}
+
+.fact{
+  font-style: italic;
+}
+
+.list{
+  list-style:none;
+  padding-left:0
+}
+
+.list-title{
+  font-weight:bold;
+}
+
+.info{
+  width: 280px;
+  height: 290px;
+  border: 1px solid black;
+  margin: 9px;
+  background-color: tan;
+  padding: 10px;
+  padding-top: 0;
+}
